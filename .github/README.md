@@ -190,7 +190,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by the VoiceGuard Team**
+**Made with ❤️ by DevArqf**
 
 [⭐ Star this repo](https://github.com/yourusername/voiceguard) • [🐛 Report Bug](https://github.com/yourusername/voiceguard/issues) • [✨ Request Feature](https://github.com/yourusername/voiceguard/issues)
 
