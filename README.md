@@ -47,10 +47,22 @@ The system consists of several key components:
    ```
 
 3. **Set up environment variables**
-   - Copy `.env.example` to `.env`
-   - Add your OpenAI API key:
+   
+   **Windows (PowerShell):**
+   ```powershell
+   copy .env.example .env
+   # Then edit .env file and add your OpenAI API key
+   ```
+   
+   **macOS/Linux:**
+   ```bash
+   cp .env.example .env
+   # Then edit .env file and add your OpenAI API key
+   ```
+   
+   **Edit the .env file and add your OpenAI API key:**
    ```env
-   OPENAI_API_KEY=your_openai_api_key_here
+   OPENAI_API_KEY=your_actual_openai_api_key_here
    ```
 
 4. **Test your configuration**
@@ -182,9 +194,15 @@ The system uses SQLite with the following main tables:
 - Try different audio input device
 
 **2. "OpenAI API Error"**
-- Verify API key is correct
+- Verify API key is correct in .env file
 - Check internet connection
 - Ensure sufficient API credits
+
+**3. "Cannot find .env.example" Error**
+- Make sure you're in the correct project directory
+- The file should be visible after cloning from GitHub
+- Windows users: use `copy .env.example .env`
+- macOS/Linux users: use `cp .env.example .env`
 
 **3. "Could not extract features" Error**
 - Ensure audio is not too quiet or noisy
